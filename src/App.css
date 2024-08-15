@@ -33,15 +33,6 @@
   margin: 1rem;
 }
 
-body {
-  background-image: url("https://images.vexels.com/media/users/3/275740/isolated/preview/d7c8d3ada4ef122f58418803a6d3df36-sorry-doodle-color-quote.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom;
-  background-blend-mode: darken;
-  background-size: 300px 200px;
-}
-
 @media (max-width: 768px) {
   body {
     background-size: 150px 100px; 
